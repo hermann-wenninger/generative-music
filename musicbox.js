@@ -13,6 +13,7 @@ window.onload = function() {
 			"E5.mp3",
 			"G4.mp3",
 			"G5.mp3",
+			"key01.mp3",
 		],
 		finishedLoading
 	);
