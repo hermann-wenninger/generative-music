@@ -1,1 +1,1 @@
-# Generative-Music-Box-Project
+# Generative-Music
